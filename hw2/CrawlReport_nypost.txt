@@ -1,0 +1,35 @@
+Name: Xiaoyu Zhang
+USC ID: 9272921594
+News site crawled: nypost.com
+
+Fetch Statistics
+================
+# fetches attempted: 19999
+# fetches succeeded: 16079
+# fetches failed or aborted: 3920
+
+Outgoing URLs:
+==============
+Total URLS extracted: 2875265
+# unique URLs extracted: 971146
+# unique URLs within News Site: 883418
+# unique URLs outside News Site: 87728
+
+Status Codes:
+=============
+200 OK: 16079
+301 Moved Permanently: 36
+302 Moved Temporarily: 3881
+404 Not Found: 3
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 910
+100KB ~ <1MB: 15169
+>= 1MB: 0
+
+Content Types:
+==============
+text/html: 16079
